@@ -49,4 +49,5 @@ lmha.slld
 * 检查所有杀毒软件的白名单，清除被木马静默加入的部分
 * 然后开动你所有的杀软，进行全盘杀毒。
 
-
+## 协议
+GNU General Public License v3.0
