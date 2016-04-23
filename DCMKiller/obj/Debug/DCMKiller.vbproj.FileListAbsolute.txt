@@ -1,0 +1,20 @@
+C:\Users\wb\AppData\Local\Temporary Projects\DCMKiller\bin\Debug\DCMKiller.exe
+C:\Users\wb\AppData\Local\Temporary Projects\DCMKiller\bin\Debug\DCMKiller.pdb
+C:\Users\wb\AppData\Local\Temporary Projects\DCMKiller\bin\Debug\DCMKiller.xml
+C:\Users\wb\AppData\Local\Temporary Projects\DCMKiller\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wb\AppData\Local\Temporary Projects\DCMKiller\obj\Debug\DCMKiller.Form1.resources
+C:\Users\wb\AppData\Local\Temporary Projects\DCMKiller\obj\Debug\DCMKiller.Resources.resources
+C:\Users\wb\AppData\Local\Temporary Projects\DCMKiller\obj\Debug\DCMKiller.vbproj.GenerateResource.Cache
+C:\Users\wb\AppData\Local\Temporary Projects\DCMKiller\obj\Debug\DCMKiller.exe
+C:\Users\wb\AppData\Local\Temporary Projects\DCMKiller\obj\Debug\DCMKiller.xml
+C:\Users\wb\AppData\Local\Temporary Projects\DCMKiller\obj\Debug\DCMKiller.pdb
+C:\Users\wb\Documents\Visual Studio 2008\Projects\DCMKiller\DCMKiller\obj\Debug\DCMKiller.exe
+C:\Users\wb\Documents\Visual Studio 2008\Projects\DCMKiller\DCMKiller\obj\Debug\DCMKiller.xml
+C:\Users\wb\Documents\Visual Studio 2008\Projects\DCMKiller\DCMKiller\obj\Debug\DCMKiller.pdb
+C:\Users\wb\Documents\Visual Studio 2008\Projects\DCMKiller\DCMKiller\bin\Debug\DCMKiller.exe
+C:\Users\wb\Documents\Visual Studio 2008\Projects\DCMKiller\DCMKiller\bin\Debug\DCMKiller.pdb
+C:\Users\wb\Documents\Visual Studio 2008\Projects\DCMKiller\DCMKiller\bin\Debug\DCMKiller.xml
+C:\Users\wb\Documents\Visual Studio 2008\Projects\DCMKiller\DCMKiller\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wb\Documents\Visual Studio 2008\Projects\DCMKiller\DCMKiller\obj\Debug\DCMKiller.Form1.resources
+C:\Users\wb\Documents\Visual Studio 2008\Projects\DCMKiller\DCMKiller\obj\Debug\DCMKiller.Resources.resources
+C:\Users\wb\Documents\Visual Studio 2008\Projects\DCMKiller\DCMKiller\obj\Debug\DCMKiller.vbproj.GenerateResource.Cache

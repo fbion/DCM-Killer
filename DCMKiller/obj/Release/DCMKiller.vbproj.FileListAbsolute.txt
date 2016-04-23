@@ -1,0 +1,10 @@
+C:\Users\wb\Documents\Visual Studio 2008\Projects\DCMKiller\DCMKiller\bin\Release\DCMKiller.exe
+C:\Users\wb\Documents\Visual Studio 2008\Projects\DCMKiller\DCMKiller\bin\Release\DCMKiller.pdb
+C:\Users\wb\Documents\Visual Studio 2008\Projects\DCMKiller\DCMKiller\bin\Release\DCMKiller.xml
+C:\Users\wb\Documents\Visual Studio 2008\Projects\DCMKiller\DCMKiller\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wb\Documents\Visual Studio 2008\Projects\DCMKiller\DCMKiller\obj\Release\DCMKiller.Form1.resources
+C:\Users\wb\Documents\Visual Studio 2008\Projects\DCMKiller\DCMKiller\obj\Release\DCMKiller.Resources.resources
+C:\Users\wb\Documents\Visual Studio 2008\Projects\DCMKiller\DCMKiller\obj\Release\DCMKiller.vbproj.GenerateResource.Cache
+C:\Users\wb\Documents\Visual Studio 2008\Projects\DCMKiller\DCMKiller\obj\Release\DCMKiller.exe
+C:\Users\wb\Documents\Visual Studio 2008\Projects\DCMKiller\DCMKiller\obj\Release\DCMKiller.xml
+C:\Users\wb\Documents\Visual Studio 2008\Projects\DCMKiller\DCMKiller\obj\Release\DCMKiller.pdb
