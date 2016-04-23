@@ -16,12 +16,7 @@ RtkBdll.dll
 
 * 删除木马释放出的所有文件:
 
-```
-Windows XP:`%windir%\ntshrui.dll`
-Windows 7:`%windir%\msls32.dll`
-Windows 8 及以上:`%windir%\AduioSes.dll`
-```
-| Windows 版本       | 文件           |
+| Windows 版本     | 文件                 |
 | ---------------- |:--------------------:|
 | Windows XP       | %windir%\ntshrui.dll |
 | Windows 7        | %windir%\msls32.dll  |
@@ -44,5 +39,11 @@ iestorage.dll
 SAM.dll
 lmha.slld
 ```
-所有后缀名为.k 的文件
+
+* 修复 LSP 连接
+
+在CMD下执行:
+```shell
+netsh winsock reset
+```
 
