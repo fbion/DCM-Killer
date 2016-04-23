@@ -43,7 +43,9 @@ lmha.slld
 * 修复 LSP 连接
 
 在CMD下执行:
-```shell
-netsh winsock reset
-```
+
+`netsh winsock reset`
+
+* 检查所有杀毒软件的白名单，清除被木马静默加入的部分
+* 然后开动你所有的杀软，进行全盘杀毒。
 
